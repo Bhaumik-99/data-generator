@@ -26,5 +26,5 @@ pip install pandas openpyxl
 ## 🚀 Usage
 
 ```bash
-python ollama_fact_generator.py
+python main.py
 ```
