@@ -23,3 +23,8 @@ This Python script uses the Ollama large language model to generate **unique, ve
 ```bash
 pip install pandas openpyxl
 ```
+## 🚀 Usage
+
+```bash
+python ollama_fact_generator.py
+```
