@@ -12,3 +12,14 @@ This Python script uses the Ollama large language model to generate **unique, ve
   - Fact cleaning (removal of bullets, numbering, etc.)
   - Graceful handling of timeouts, subprocess errors, and user interrupts
 
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Python 3.7+
+- [Ollama](https://ollama.com/) installed and accessible via CLI (`ollama`)
+- Install required Python packages:
+
+```bash
+pip install pandas openpyxl
+```
