@@ -28,3 +28,19 @@ pip install pandas openpyxl
 ```bash
 python main.py
 ```
+
+### 🗂️ Sheet Contents:
+
+The Excel sheet will include the following columns:
+
+- **Fact_Number** – Serial number of the fact  
+- **Fact** – The actual generated fact  
+- **Keyword** – The keyword you provided  
+- **Character_Count** – Number of characters in each fact
+
+
+
+
+
+
+
